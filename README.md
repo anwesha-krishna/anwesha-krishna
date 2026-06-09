@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Anwesha Krishna 👋
 
-<!--
-**anwesha-krishna/anwesha-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at SRM Institute of Science and Technology
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- AI ML Technologies
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+
+🏆 Achievements
+- 1st Position - Tamizhan Skills Ideathon 2026
+- 2nd Position - Campus Quest 4.0 Hackathon 2025
+
+🚀 Interests
+- Computer Vision
+- Software Development
+- Open Source
+
+📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/anwesha-krishna
+
+GitHub:
+github.com/anwesha-krishna
+
+---
+
+*"Learning one commit at a time."*
