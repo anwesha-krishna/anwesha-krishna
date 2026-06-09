@@ -34,7 +34,7 @@ LinkedIn:
 www.linkedin.com/in/anwesha-krishna
 
 GitHub:
-github.com/anwesha-krishna
+https://github.com/anwesha-krishna
 
 ---
 
